@@ -1,9 +1,9 @@
 {
     "name": {
-        "ar": "رائد",
-        "en": "Theme Raed"
+        "ar": "فالنتيكا",
+        "en": "Valinteca"
     },
-    "repository": "https://github.com/SallaApp/theme-raed",
+    "repository": "https://github.com/kareem-torky/salla-theme-test-2",
     "author_email": "support@salla.dev",
     "features": [
         "mega-menu",
