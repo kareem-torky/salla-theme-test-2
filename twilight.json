@@ -684,7 +684,24 @@
             "title": "custom test",
             "icon": "sicon-store",
             "path": "custom.test",
-            "fields": []
+            "fields": [
+                {
+                    "id": "custom-text-h1",
+                    "key": "0252ec0e-669a-45b1-93e4-dec5815b6136",
+                    "type": "string",
+                    "format": "text",
+                    "label": "String",
+                    "description": null,
+                    "labelHTML": null,
+                    "placeholder": "أدخل النص هنا",
+                    "icon": "sicon-format-text-alt",
+                    "value": null,
+                    "multilanguage": false,
+                    "required": true,
+                    "minLength": "1",
+                    "maxLength": 30
+                }
+            ]
         }
     ],
     "support_url": "https://salla.dev",
