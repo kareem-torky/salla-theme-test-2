@@ -703,6 +703,13 @@
                     "maxLength": 30
                 }
             ]
+        },
+        {
+            "key": "1e683b81-0e35-4ed7-9c6e-8ddbe8c7cdc1",
+            "title": "home test",
+            "icon": "sicon-store",
+            "path": "home.test",
+            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
