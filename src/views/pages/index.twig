@@ -7,10 +7,9 @@
 #}
 {% extends "layouts.master" %}
 {% block content %}
-    {# {% component home %} #}
-
+    {% component home %}
+    <salla-button fill="outline" color="dark">Hello World 👋</salla-button>
 {% endblock %}
-<salla-button fill="outline" color="dark">Hello World 👋</salla-button>
 {% block scripts %}
     <script defer src="{{ 'home.js' | asset }}"></script>
 {% endblock %}
