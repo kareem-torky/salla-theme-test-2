@@ -710,6 +710,13 @@
             "icon": "sicon-store",
             "path": "home.test",
             "fields": []
+        },
+        {
+            "key": "e4f95fee-afca-4889-987c-438f7d2489bb",
+            "title": "test-comp",
+            "icon": "sicon-store",
+            "path": "test.comp",
+            "fields": []
         }
     ],
     "support_url": "https://salla.dev",
